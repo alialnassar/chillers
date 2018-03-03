@@ -1,0 +1,51 @@
+nav.navbar{
+	background: #6f5499;
+	border-radius: 0px;
+}
+.navbar-toggle {
+	border: 1px solid #fff;
+}
+.navbar-toggle .icon-bar {
+	background: #fff;
+}
+.navbar a{
+	color: #fff;
+}
+.chiller{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	min-height: 140px;
+	text-align: center;
+	color: skyblue;
+}
+.chiller a{
+	text-decoration: none;
+	color: blue;
+	font-size: 15px;
+	font-weight: 900;
+	display: block;
+	padding: 5px;
+	margin: 5px 10px;
+	border-radius: 4px;
+}
+.chiller .chiller-status{
+	margin: 25px auto;
+	display: block;
+}
+.chiller .temp{
+	color: red;
+	font-size: 16px;
+}
+.alert-success{
+	background-color: #28a745;
+}
+.alert-danger{
+	background-color: #dc3545;
+}
+.glyphicon{
+	font-size: 70px;
+	
+}
+.text-white{
+	color: #fff;
+}
